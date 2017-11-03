@@ -1,14 +1,28 @@
-<ion-header>
-  <ion-navbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-navbar>
-</ion-header>
-
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <div class="logo">&nbsp;</div>
+
+  <ion-card>
+    <p class='header1'>View Wather Forecast, Report anamolies help Scientists Improve forecast.
+    </p>
+    <p class='header2'>View Health advisories and save on medical bills
+    </p>
+  </ion-card>
+  <ion-list>
+    <ion-item>
+      <ion-searchbar [(ngModel)]="autocomplete.query" [showCancelButton]="true" (ionInput)="updateSearch()" (ionCancel)="dismiss()"
+        placeholder="Start typing and select ...">
+      </ion-searchbar>
+      <ion-list>
+        <ion-item *ngFor="let item of autocompleteItems" (click)="chooseItem(item)">
+          {{ item.description }}
+        </ion-item>
+      </ion-list>
+    </ion-item>
+    <ion-item>
+      <button ion-button large icon-start block>
+        <ion-icon name="ios-navigate-outline"></ion-icon>Use Current Location</button>
+    </ion-item>
+  </ion-list>
+
+
 </ion-content>
