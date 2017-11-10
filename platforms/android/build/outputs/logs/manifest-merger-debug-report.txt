@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:2:1-14:12
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:2:98-124
 		INJECTED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml
@@ -33,10 +33,31 @@ ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidMa
 		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
 ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.6.0/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:5:5-12:19
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.6.0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps-license/11.6.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.6.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base-license/11.6.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.6.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.6.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement-license/11.6.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks-license/11.6.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location-license/11.6.0/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:5:81-113
 	android:supportsRtl
@@ -71,10 +92,121 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:9:17-77
 	android:name
 		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:9:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:12:9-124
+	android:value
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:12:66-121
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.version
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.6.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:13:20-65
+receiver#cordova.plugins.Diagnostic$LocationProviderChangedReceiver
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:14:9-18:20
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:14:19-92
+intent-filter#android.location.PROVIDERS_CHANGED
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:15:13-17:29
+action#android.location.PROVIDERS_CHANGED
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:16:25-74
+receiver#cordova.plugins.Diagnostic$NFCStateChangedReceiver
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:19:19-84
+intent-filter#android.nfc.action.ADAPTER_STATE_CHANGED
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:20:13-22:29
+action#android.nfc.action.ADAPTER_STATE_CHANGED
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:21:17-83
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:21:25-80
 uses-sdk
-ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:13:5-74
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:25:5-74
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.6.0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps-license/11.6.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.6.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base-license/11.6.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.6.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.6.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement-license/11.6.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks-license/11.6.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location-license/11.6.0/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [org.apache.cordova:CordovaLib:6.3.0:debug] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.3.0/debug/AndroidManifest.xml:25:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:13:42-71
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:25:42-71
 	android:minSdkVersion
-		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:13:15-41
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:25:15-41
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.6.0/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:26:22-76
+uses-feature#0x00020000
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:27:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.6.0/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:27:19-51
+	android:required
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:27:52-75
+uses-feature#android.hardware.location
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:28:5-62
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:28:19-59
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:29:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:30:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from /home/shantanu/Documents/app_projects/new/platforms/android/AndroidManifest.xml:31:19-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:26:13-58

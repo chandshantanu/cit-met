@@ -3,6 +3,168 @@
 
     <item
         is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_05d58a9b850afd334eb429e81747efe633264432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_6e4e667854685bdf0bbdebad38369d98037f3c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_186941126c5e7027df801fe8b85f01a36ca5b624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.6.0_c94c1dba691d6f8ce1cf83778816c35f315dc602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_0db6c370e8e5555a5d214ea5f316337f8f5aecc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_e8454440462004638a38558dd0db3d4120987fae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="48ab283a4cda3b78eda2c149b588cb0aa0c66cc9">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-11.6.0_f058f42e07766f10b1e3e77158bd5d880a24dba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_22c3597d5774cae8861d71278d5a279f1a8d2400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_368310f074b5b2045b947119c041dc725019adbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_373acca01bb823f2b1d1c386bf23591adc0cbab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_c0c7721f1bb53b7bca6c5c43ab549eb7bf092dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42c5ee016c8815db37d662f18c497aee13150f9e">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.6.0_133352d344f7c1796ebb044f46bba72d030e9470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/common-1.0.0_1e9e93caa5353a8bf776fce86e1d4e0adb187610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.6.0_ab43eb41fa62c25f69cf55efecce67ee4a3da65f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_ad28d6830cb54bca5708482c80d78de4432364c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/common-1.0.0_94dccc922c324025b01607ab0d283719d1056b28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.6.0_de823ed276fcf7cc54b0622f7fbbfc1be0dbd300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_bbd3b93d84788eb32fcab08bed22f2fc487a325e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/shantanu/Documents/app_projects/new/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.3.0/debug/jars/classes.jar"
         jumboMode="false"
         optimize="true"

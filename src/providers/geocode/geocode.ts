@@ -16,7 +16,8 @@ export class GeocodeProvider {
     console.log('Hello GeocodeProvider Provider');
   }
   async get_geocode(id: string): Promise<any> {
-    var response = await this.http.get('https://maps.googleapis.com/maps/api/place/details/json?placeid=' + id + '&key=AIzaSyDFsIf3oZmqqVHMfpMv0fh5BHZdAZKFNdM').toPromise()
+    //id='ChIJL_P_CXMEDTkRw0ZdG-0GVvw'
+    var response = await this.http.get('https://maps.googleapis.com/maps/api/place/details/json?placeid='+id+'&key=AIzaSyDFsIf3oZmqqVHMfpMv0fh5BHZdAZKFNdM').toPromise()
     console.log(response)
     //return response.json()
   }
